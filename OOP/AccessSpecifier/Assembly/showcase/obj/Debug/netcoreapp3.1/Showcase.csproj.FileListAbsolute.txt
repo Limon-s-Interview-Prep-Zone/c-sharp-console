@@ -1,0 +1,16 @@
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\obj\Debug\netcoreapp3.1\Showcase.csprojAssemblyReference.cache
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\obj\Debug\netcoreapp3.1\Showcase.AssemblyInfoInputs.cache
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\obj\Debug\netcoreapp3.1\Showcase.AssemblyInfo.cs
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\obj\Debug\netcoreapp3.1\Showcase.csproj.CoreCompileInputs.cache
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\bin\Debug\netcoreapp3.1\Showcase.exe
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\bin\Debug\netcoreapp3.1\Showcase.deps.json
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\bin\Debug\netcoreapp3.1\Showcase.runtimeconfig.json
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\bin\Debug\netcoreapp3.1\Showcase.runtimeconfig.dev.json
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\bin\Debug\netcoreapp3.1\Showcase.dll
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\bin\Debug\netcoreapp3.1\Showcase.pdb
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\bin\Debug\netcoreapp3.1\Stringlibrary.dll
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\bin\Debug\netcoreapp3.1\Stringlibrary.pdb
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\obj\Debug\netcoreapp3.1\Showcase.csproj.CopyComplete
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\obj\Debug\netcoreapp3.1\Showcase.dll
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\obj\Debug\netcoreapp3.1\Showcase.pdb
+E:\C#-console\OOP\AccessSpecifier\Assembly\showcase\obj\Debug\netcoreapp3.1\Showcase.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+E:\dotnet\PracticeConstructor\bin\Debug\netcoreapp3.1\PracticeConstructor.exe
+E:\dotnet\PracticeConstructor\bin\Debug\netcoreapp3.1\PracticeConstructor.deps.json
+E:\dotnet\PracticeConstructor\bin\Debug\netcoreapp3.1\PracticeConstructor.runtimeconfig.json
+E:\dotnet\PracticeConstructor\bin\Debug\netcoreapp3.1\PracticeConstructor.runtimeconfig.dev.json
+E:\dotnet\PracticeConstructor\bin\Debug\netcoreapp3.1\PracticeConstructor.dll
+E:\dotnet\PracticeConstructor\bin\Debug\netcoreapp3.1\PracticeConstructor.pdb
+E:\dotnet\PracticeConstructor\obj\Debug\netcoreapp3.1\PracticeConstructor.csprojAssemblyReference.cache
+E:\dotnet\PracticeConstructor\obj\Debug\netcoreapp3.1\PracticeConstructor.AssemblyInfoInputs.cache
+E:\dotnet\PracticeConstructor\obj\Debug\netcoreapp3.1\PracticeConstructor.AssemblyInfo.cs
+E:\dotnet\PracticeConstructor\obj\Debug\netcoreapp3.1\PracticeConstructor.dll
+E:\dotnet\PracticeConstructor\obj\Debug\netcoreapp3.1\PracticeConstructor.pdb

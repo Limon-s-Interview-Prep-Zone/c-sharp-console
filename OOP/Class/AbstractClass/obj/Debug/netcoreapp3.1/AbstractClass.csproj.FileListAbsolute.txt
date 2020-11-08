@@ -1,0 +1,13 @@
+E:\C#-console\OOP\Class\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.exe
+E:\C#-console\OOP\Class\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.deps.json
+E:\C#-console\OOP\Class\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.runtimeconfig.json
+E:\C#-console\OOP\Class\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.runtimeconfig.dev.json
+E:\C#-console\OOP\Class\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.dll
+E:\C#-console\OOP\Class\AbstractClass\bin\Debug\netcoreapp3.1\AbstractClass.pdb
+E:\C#-console\OOP\Class\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.csprojAssemblyReference.cache
+E:\C#-console\OOP\Class\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfoInputs.cache
+E:\C#-console\OOP\Class\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.AssemblyInfo.cs
+E:\C#-console\OOP\Class\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.csproj.CoreCompileInputs.cache
+E:\C#-console\OOP\Class\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.dll
+E:\C#-console\OOP\Class\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.pdb
+E:\C#-console\OOP\Class\AbstractClass\obj\Debug\netcoreapp3.1\AbstractClass.genruntimeconfig.cache

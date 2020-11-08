@@ -1,0 +1,13 @@
+E:\C#-console\OOP\AccessSpecifier\bin\Debug\netcoreapp3.1\AccessSpecifier.exe
+E:\C#-console\OOP\AccessSpecifier\bin\Debug\netcoreapp3.1\AccessSpecifier.deps.json
+E:\C#-console\OOP\AccessSpecifier\bin\Debug\netcoreapp3.1\AccessSpecifier.runtimeconfig.json
+E:\C#-console\OOP\AccessSpecifier\bin\Debug\netcoreapp3.1\AccessSpecifier.runtimeconfig.dev.json
+E:\C#-console\OOP\AccessSpecifier\bin\Debug\netcoreapp3.1\AccessSpecifier.dll
+E:\C#-console\OOP\AccessSpecifier\bin\Debug\netcoreapp3.1\AccessSpecifier.pdb
+E:\C#-console\OOP\AccessSpecifier\obj\Debug\netcoreapp3.1\AccessSpecifier.csprojAssemblyReference.cache
+E:\C#-console\OOP\AccessSpecifier\obj\Debug\netcoreapp3.1\AccessSpecifier.AssemblyInfoInputs.cache
+E:\C#-console\OOP\AccessSpecifier\obj\Debug\netcoreapp3.1\AccessSpecifier.AssemblyInfo.cs
+E:\C#-console\OOP\AccessSpecifier\obj\Debug\netcoreapp3.1\AccessSpecifier.csproj.CoreCompileInputs.cache
+E:\C#-console\OOP\AccessSpecifier\obj\Debug\netcoreapp3.1\AccessSpecifier.dll
+E:\C#-console\OOP\AccessSpecifier\obj\Debug\netcoreapp3.1\AccessSpecifier.pdb
+E:\C#-console\OOP\AccessSpecifier\obj\Debug\netcoreapp3.1\AccessSpecifier.genruntimeconfig.cache

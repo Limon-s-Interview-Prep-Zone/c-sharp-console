@@ -1,0 +1,11 @@
+{
+  "version": 2,
+  "dgSpecHash": "Qr1KfFEROEr5ShCmyvUmBv8GNu3PZqlDmRn0qpFc3P4ZowVon0tbkvJNUcZd5QeaPzwGeIC0t9W5wx+K9if7EQ==",
+  "success": true,
+  "projectFilePath": "E:\\C#-console\\OOP\\AccessSpecifier\\Assembly\\stringlibrary\\stringlibrary.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\libd7\\.nuget\\packages\\microsoft.netcore.platforms\\1.1.0\\microsoft.netcore.platforms.1.1.0.nupkg.sha512",
+    "C:\\Users\\libd7\\.nuget\\packages\\netstandard.library\\2.0.3\\netstandard.library.2.0.3.nupkg.sha512"
+  ],
+  "logs": []
+}

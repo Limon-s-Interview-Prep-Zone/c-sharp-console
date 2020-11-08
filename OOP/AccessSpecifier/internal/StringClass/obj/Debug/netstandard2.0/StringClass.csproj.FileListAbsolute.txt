@@ -1,0 +1,4 @@
+E:\C#-console\OOP\AccessSpecifier\internal\StringClass\obj\Debug\netstandard2.0\StringClass.csprojAssemblyReference.cache
+E:\C#-console\OOP\AccessSpecifier\internal\StringClass\obj\Debug\netstandard2.0\StringClass.AssemblyInfoInputs.cache
+E:\C#-console\OOP\AccessSpecifier\internal\StringClass\obj\Debug\netstandard2.0\StringClass.AssemblyInfo.cs
+E:\C#-console\OOP\AccessSpecifier\internal\StringClass\obj\Debug\netstandard2.0\StringClass.csproj.CoreCompileInputs.cache

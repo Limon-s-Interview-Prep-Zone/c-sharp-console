@@ -1,0 +1,4 @@
+namespace collections.CollectionPractice
+{
+
+}

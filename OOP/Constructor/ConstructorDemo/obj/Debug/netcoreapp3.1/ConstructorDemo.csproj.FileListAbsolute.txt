@@ -1,0 +1,13 @@
+E:\C#-console\OOP\Constructor\Constructordemo\bin\Debug\netcoreapp3.1\ConstructorDemo.exe
+E:\C#-console\OOP\Constructor\Constructordemo\bin\Debug\netcoreapp3.1\ConstructorDemo.deps.json
+E:\C#-console\OOP\Constructor\Constructordemo\bin\Debug\netcoreapp3.1\ConstructorDemo.runtimeconfig.json
+E:\C#-console\OOP\Constructor\Constructordemo\bin\Debug\netcoreapp3.1\ConstructorDemo.runtimeconfig.dev.json
+E:\C#-console\OOP\Constructor\Constructordemo\bin\Debug\netcoreapp3.1\ConstructorDemo.dll
+E:\C#-console\OOP\Constructor\Constructordemo\bin\Debug\netcoreapp3.1\ConstructorDemo.pdb
+E:\C#-console\OOP\Constructor\Constructordemo\obj\Debug\netcoreapp3.1\ConstructorDemo.csprojAssemblyReference.cache
+E:\C#-console\OOP\Constructor\Constructordemo\obj\Debug\netcoreapp3.1\ConstructorDemo.AssemblyInfoInputs.cache
+E:\C#-console\OOP\Constructor\Constructordemo\obj\Debug\netcoreapp3.1\ConstructorDemo.AssemblyInfo.cs
+E:\C#-console\OOP\Constructor\Constructordemo\obj\Debug\netcoreapp3.1\ConstructorDemo.csproj.CoreCompileInputs.cache
+E:\C#-console\OOP\Constructor\Constructordemo\obj\Debug\netcoreapp3.1\ConstructorDemo.dll
+E:\C#-console\OOP\Constructor\Constructordemo\obj\Debug\netcoreapp3.1\ConstructorDemo.pdb
+E:\C#-console\OOP\Constructor\Constructordemo\obj\Debug\netcoreapp3.1\ConstructorDemo.genruntimeconfig.cache

@@ -1,0 +1,11 @@
+E:\dotnet\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.exe
+E:\dotnet\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.deps.json
+E:\dotnet\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.runtimeconfig.json
+E:\dotnet\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.runtimeconfig.dev.json
+E:\dotnet\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.dll
+E:\dotnet\DelegatePractice\bin\Debug\netcoreapp3.1\DelegatePractice.pdb
+E:\dotnet\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.csprojAssemblyReference.cache
+E:\dotnet\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.AssemblyInfoInputs.cache
+E:\dotnet\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.AssemblyInfo.cs
+E:\dotnet\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.dll
+E:\dotnet\DelegatePractice\obj\Debug\netcoreapp3.1\DelegatePractice.pdb

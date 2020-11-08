@@ -1,0 +1,9 @@
+E:\C#-console\OOP\AccessSpecifier\Assembly\StringLibrary\bin\Debug\netstandard2.0\Stringlibrary.deps.json
+E:\C#-console\OOP\AccessSpecifier\Assembly\StringLibrary\bin\Debug\netstandard2.0\Stringlibrary.dll
+E:\C#-console\OOP\AccessSpecifier\Assembly\StringLibrary\bin\Debug\netstandard2.0\Stringlibrary.pdb
+E:\C#-console\OOP\AccessSpecifier\Assembly\StringLibrary\obj\Debug\netstandard2.0\Stringlibrary.csprojAssemblyReference.cache
+E:\C#-console\OOP\AccessSpecifier\Assembly\StringLibrary\obj\Debug\netstandard2.0\Stringlibrary.AssemblyInfoInputs.cache
+E:\C#-console\OOP\AccessSpecifier\Assembly\StringLibrary\obj\Debug\netstandard2.0\Stringlibrary.AssemblyInfo.cs
+E:\C#-console\OOP\AccessSpecifier\Assembly\StringLibrary\obj\Debug\netstandard2.0\Stringlibrary.csproj.CoreCompileInputs.cache
+E:\C#-console\OOP\AccessSpecifier\Assembly\StringLibrary\obj\Debug\netstandard2.0\Stringlibrary.dll
+E:\C#-console\OOP\AccessSpecifier\Assembly\StringLibrary\obj\Debug\netstandard2.0\Stringlibrary.pdb

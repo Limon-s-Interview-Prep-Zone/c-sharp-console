@@ -1,0 +1,13 @@
+E:\C#-console\Deleget\DelegetDemoReal2\bin\Debug\netcoreapp3.1\DelegetDemoReal2.exe
+E:\C#-console\Deleget\DelegetDemoReal2\bin\Debug\netcoreapp3.1\DelegetDemoReal2.deps.json
+E:\C#-console\Deleget\DelegetDemoReal2\bin\Debug\netcoreapp3.1\DelegetDemoReal2.runtimeconfig.json
+E:\C#-console\Deleget\DelegetDemoReal2\bin\Debug\netcoreapp3.1\DelegetDemoReal2.runtimeconfig.dev.json
+E:\C#-console\Deleget\DelegetDemoReal2\bin\Debug\netcoreapp3.1\DelegetDemoReal2.dll
+E:\C#-console\Deleget\DelegetDemoReal2\bin\Debug\netcoreapp3.1\DelegetDemoReal2.pdb
+E:\C#-console\Deleget\DelegetDemoReal2\obj\Debug\netcoreapp3.1\DelegetDemoReal2.csprojAssemblyReference.cache
+E:\C#-console\Deleget\DelegetDemoReal2\obj\Debug\netcoreapp3.1\DelegetDemoReal2.AssemblyInfoInputs.cache
+E:\C#-console\Deleget\DelegetDemoReal2\obj\Debug\netcoreapp3.1\DelegetDemoReal2.AssemblyInfo.cs
+E:\C#-console\Deleget\DelegetDemoReal2\obj\Debug\netcoreapp3.1\DelegetDemoReal2.csproj.CoreCompileInputs.cache
+E:\C#-console\Deleget\DelegetDemoReal2\obj\Debug\netcoreapp3.1\DelegetDemoReal2.dll
+E:\C#-console\Deleget\DelegetDemoReal2\obj\Debug\netcoreapp3.1\DelegetDemoReal2.pdb
+E:\C#-console\Deleget\DelegetDemoReal2\obj\Debug\netcoreapp3.1\DelegetDemoReal2.genruntimeconfig.cache

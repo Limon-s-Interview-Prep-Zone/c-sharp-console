@@ -1,0 +1,13 @@
+E:\C#-console\Deleget\01-DelegetDemo1\bin\Debug\netcoreapp3.1\DelegetDemo1.exe
+E:\C#-console\Deleget\01-DelegetDemo1\bin\Debug\netcoreapp3.1\DelegetDemo1.deps.json
+E:\C#-console\Deleget\01-DelegetDemo1\bin\Debug\netcoreapp3.1\DelegetDemo1.runtimeconfig.json
+E:\C#-console\Deleget\01-DelegetDemo1\bin\Debug\netcoreapp3.1\DelegetDemo1.runtimeconfig.dev.json
+E:\C#-console\Deleget\01-DelegetDemo1\bin\Debug\netcoreapp3.1\DelegetDemo1.dll
+E:\C#-console\Deleget\01-DelegetDemo1\bin\Debug\netcoreapp3.1\DelegetDemo1.pdb
+E:\C#-console\Deleget\01-DelegetDemo1\obj\Debug\netcoreapp3.1\DelegetDemo1.csprojAssemblyReference.cache
+E:\C#-console\Deleget\01-DelegetDemo1\obj\Debug\netcoreapp3.1\DelegetDemo1.AssemblyInfoInputs.cache
+E:\C#-console\Deleget\01-DelegetDemo1\obj\Debug\netcoreapp3.1\DelegetDemo1.AssemblyInfo.cs
+E:\C#-console\Deleget\01-DelegetDemo1\obj\Debug\netcoreapp3.1\DelegetDemo1.csproj.CoreCompileInputs.cache
+E:\C#-console\Deleget\01-DelegetDemo1\obj\Debug\netcoreapp3.1\DelegetDemo1.dll
+E:\C#-console\Deleget\01-DelegetDemo1\obj\Debug\netcoreapp3.1\DelegetDemo1.pdb
+E:\C#-console\Deleget\01-DelegetDemo1\obj\Debug\netcoreapp3.1\DelegetDemo1.genruntimeconfig.cache

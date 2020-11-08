@@ -1,0 +1,13 @@
+E:\C#-console\OOP\Constructor\AccessKeyWord\bin\Debug\netcoreapp3.1\AccessKeyWord.exe
+E:\C#-console\OOP\Constructor\AccessKeyWord\bin\Debug\netcoreapp3.1\AccessKeyWord.deps.json
+E:\C#-console\OOP\Constructor\AccessKeyWord\bin\Debug\netcoreapp3.1\AccessKeyWord.runtimeconfig.json
+E:\C#-console\OOP\Constructor\AccessKeyWord\bin\Debug\netcoreapp3.1\AccessKeyWord.runtimeconfig.dev.json
+E:\C#-console\OOP\Constructor\AccessKeyWord\bin\Debug\netcoreapp3.1\AccessKeyWord.dll
+E:\C#-console\OOP\Constructor\AccessKeyWord\bin\Debug\netcoreapp3.1\AccessKeyWord.pdb
+E:\C#-console\OOP\Constructor\AccessKeyWord\obj\Debug\netcoreapp3.1\AccessKeyWord.csprojAssemblyReference.cache
+E:\C#-console\OOP\Constructor\AccessKeyWord\obj\Debug\netcoreapp3.1\AccessKeyWord.AssemblyInfoInputs.cache
+E:\C#-console\OOP\Constructor\AccessKeyWord\obj\Debug\netcoreapp3.1\AccessKeyWord.AssemblyInfo.cs
+E:\C#-console\OOP\Constructor\AccessKeyWord\obj\Debug\netcoreapp3.1\AccessKeyWord.csproj.CoreCompileInputs.cache
+E:\C#-console\OOP\Constructor\AccessKeyWord\obj\Debug\netcoreapp3.1\AccessKeyWord.dll
+E:\C#-console\OOP\Constructor\AccessKeyWord\obj\Debug\netcoreapp3.1\AccessKeyWord.pdb
+E:\C#-console\OOP\Constructor\AccessKeyWord\obj\Debug\netcoreapp3.1\AccessKeyWord.genruntimeconfig.cache

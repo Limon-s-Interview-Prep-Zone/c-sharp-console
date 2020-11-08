@@ -1,0 +1,86 @@
+{
+  "version": 3,
+  "targets": {
+    ".NETCoreApp,Version=v3.1": {
+      "stringlibrary/1.0.0": {
+        "type": "project",
+        "framework": ".NETStandard,Version=v2.0",
+        "compile": {
+          "bin/placeholder/stringlibrary.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/stringlibrary.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "stringlibrary/1.0.0": {
+      "type": "project",
+      "path": "../stringlibrary/stringlibrary.csproj",
+      "msbuildProject": "../stringlibrary/stringlibrary.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    ".NETCoreApp,Version=v3.1": [
+      "stringlibrary >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\libd7\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "E:\\C#-console\\OOP\\AccessSpecifier\\Assembly\\showcase\\showcase.csproj",
+      "projectName": "showcase",
+      "projectPath": "E:\\C#-console\\OOP\\AccessSpecifier\\Assembly\\showcase\\showcase.csproj",
+      "packagesPath": "C:\\Users\\libd7\\.nuget\\packages\\",
+      "outputPath": "E:\\C#-console\\OOP\\AccessSpecifier\\Assembly\\showcase\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\libd7\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "netcoreapp3.1"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "netcoreapp3.1": {
+          "projectReferences": {
+            "E:\\C#-console\\OOP\\AccessSpecifier\\Assembly\\stringlibrary\\stringlibrary.csproj": {
+              "projectPath": "E:\\C#-console\\OOP\\AccessSpecifier\\Assembly\\stringlibrary\\stringlibrary.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "netcoreapp3.1": {
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\3.1.402\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}
