@@ -11,6 +11,10 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ParallelProgramming", "Para
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "TaskBasedAsync", "TaskBasedAsync\TaskBasedAsync.csproj", "{E801AAC2-0076-4921-99A4-17B77695962A}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "OOP\Polymorphism\Polymorphism.csproj", "{635B7F88-3C37-4514-BC40-5E1E1D90445C}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceApp", "OOP\InheritanceApp\InheritanceApp.csproj", "{0EA6B4E5-B878-450A-915A-1EA3727FF92B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -36,5 +40,17 @@ Global
 		{E801AAC2-0076-4921-99A4-17B77695962A}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{E801AAC2-0076-4921-99A4-17B77695962A}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{E801AAC2-0076-4921-99A4-17B77695962A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{635B7F88-3C37-4514-BC40-5E1E1D90445C}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{635B7F88-3C37-4514-BC40-5E1E1D90445C}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{635B7F88-3C37-4514-BC40-5E1E1D90445C}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{635B7F88-3C37-4514-BC40-5E1E1D90445C}.Release|Any CPU.Build.0 = Release|Any CPU
+		{69963511-FAE5-46D7-B1B6-72473EF8376B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{69963511-FAE5-46D7-B1B6-72473EF8376B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{69963511-FAE5-46D7-B1B6-72473EF8376B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{69963511-FAE5-46D7-B1B6-72473EF8376B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0EA6B4E5-B878-450A-915A-1EA3727FF92B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0EA6B4E5-B878-450A-915A-1EA3727FF92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0EA6B4E5-B878-450A-915A-1EA3727FF92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0EA6B4E5-B878-450A-915A-1EA3727FF92B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
