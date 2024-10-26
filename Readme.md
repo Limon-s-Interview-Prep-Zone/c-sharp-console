@@ -11,6 +11,8 @@ Welcome to the **C# Console Application Collection** repository! This repository
     - [Prerequisites](#prerequisites)
   - [Installation](#installation)
     - [Usage](#usage)
+  - [OOP](https://github.com/Limon-s-Interview-Prep-Zone/c-sharp-console/blob/master/OOP/OOP.md)
+  - [Task and Parallel Programming](https://github.com/Limon-s-Interview-Prep-Zone/c-sharp-console/blob/master/TaskBasedAsync/TaskBasedAsync.md)
 
 ## Overview
 
