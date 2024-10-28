@@ -15,6 +15,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Polymorphism", "OOP\Polymor
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "InheritanceApp", "OOP\InheritanceApp\InheritanceApp.csproj", "{0EA6B4E5-B878-450A-915A-1EA3727FF92B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "ReflectionBasic", "ReflectionBasic\ReflectionBasic.csproj", "{D5D980D4-F9FD-46F3-B68B-14B83257420B}"
+EndProject
 Global
 	GlobalSection(SolutionConfigurationPlatforms) = preSolution
 		Debug|Any CPU = Debug|Any CPU
@@ -52,5 +54,9 @@ Global
 		{0EA6B4E5-B878-450A-915A-1EA3727FF92B}.Debug|Any CPU.Build.0 = Debug|Any CPU
 		{0EA6B4E5-B878-450A-915A-1EA3727FF92B}.Release|Any CPU.ActiveCfg = Release|Any CPU
 		{0EA6B4E5-B878-450A-915A-1EA3727FF92B}.Release|Any CPU.Build.0 = Release|Any CPU
+		{D5D980D4-F9FD-46F3-B68B-14B83257420B}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{D5D980D4-F9FD-46F3-B68B-14B83257420B}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{D5D980D4-F9FD-46F3-B68B-14B83257420B}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{D5D980D4-F9FD-46F3-B68B-14B83257420B}.Release|Any CPU.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal
