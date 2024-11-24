@@ -1,0 +1,34 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "EncodingDecoding", "EncodingDecoding\EncodingDecoding.csproj", "{EF234F96-7B47-4003-A998-F5BB72798D51}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringClassPractice", "StringClassPractice\StringClassPractice.csproj", "{15709B79-970B-48E7-B14D-B1C57642B4FA}"
+EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "StringDsa", "StringDsa\StringDsa.csproj", "{77F077E6-3155-45D5-BF08-BE5577F9D8DA}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{EF234F96-7B47-4003-A998-F5BB72798D51}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{EF234F96-7B47-4003-A998-F5BB72798D51}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{EF234F96-7B47-4003-A998-F5BB72798D51}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{EF234F96-7B47-4003-A998-F5BB72798D51}.Release|Any CPU.Build.0 = Release|Any CPU
+		{15709B79-970B-48E7-B14D-B1C57642B4FA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{15709B79-970B-48E7-B14D-B1C57642B4FA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{15709B79-970B-48E7-B14D-B1C57642B4FA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{15709B79-970B-48E7-B14D-B1C57642B4FA}.Release|Any CPU.Build.0 = Release|Any CPU
+		{77F077E6-3155-45D5-BF08-BE5577F9D8DA}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{77F077E6-3155-45D5-BF08-BE5577F9D8DA}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{77F077E6-3155-45D5-BF08-BE5577F9D8DA}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{77F077E6-3155-45D5-BF08-BE5577F9D8DA}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+EndGlobal
