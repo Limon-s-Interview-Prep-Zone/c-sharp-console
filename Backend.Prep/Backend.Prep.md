@@ -1,13 +1,49 @@
 # Dotnet Interview Prep
+
+## Attribute:
+In ASP.NET Core, attributes are special classes that provide metadata about the code they decorate.
+1. `Routing Attribute:` Used to configure `routing` for controllers and actions.
+   - `[Route("api/[controller]")]`: Defines the route template.
+   - `[HttpGet("{id}")], [HttpPost], [HttpPut], [HttpDelete]`: Specify HTTP methods for the action.
+2. `Validation Attribute:` Used for model validation in `MVC or API controllers`.
+   - `[Required]`: Ensures a value is provided.
+   - `[Range(18,99)]`: Enforces a numeric range.
+   - `[StringLength]`: Sets string length constraints.
+3. `Filter Attributes`: Used to add custom logic at various stages of the request pipeline.
+   - `[Authorize(Roles="")]`: Enforces authorization.
+   - `[AllowAnonymous]`: Allows anonymous access to endpoints.
+   - `[CustomActionFilter]`: Apply custom action filters.
+4. `Binding Attributes`: Used to control model binding in controllers.
+   - `[FromQuery]` - Gets values from the `query string`.
+   - `[FromRoute]` - Gets values from `route data`.
+   - `[FromForm]` - Gets values from posted `form fields`.
+   - `[FromBody]` - Gets values from the `request body`.
+   - `[FromHeader]` - Gets values from `HTTP headers`.
+   - [FromServices] - allow injecting dependencies directly into controller actions.
+        ```c#
+        [HttpGet]
+        public IActionResult GetServiceData([FromServices] IMyService service)
+        {
+            return Ok(service.GetData());
+        }
+        ```
+5. `Exception Handling Attributes:`
+   - `[ApiController]`: Enhances API behavior, such as automatic validation response and binding improvements.
+---
 ## Filter:
 Filters are used to execute custom logic before or after an action method in ASP.NET Core applications. They are useful for cross-cutting concerns like `logging, authentication, caching, or input validation`.
 
 **Types of Filters:**
 1. **Authorization Filters:** Run before the action to ensure the user is authorized.
-2. **Resource Filters:** Run before the model binding, often used to cache or set up resources.
+2. **Resource Filters:** Run before the `model binding`, often used to `cache or set up` resources.
+   - Cache
 3. **Action Filters:** Run before and after the action method execution.
 4. **Exception Filters:** Handle exceptions thrown by action methods or other filters.
 5. **Result Filters:** Run after an action returns a result but before the result is sent to the client.
+   - APIs where metadata (e.g., pagination info) is added to the response.
+   - Adding custom `HTTP headers` to all responses.
+   - Standardizing `all responses` to follow a specific format
+   - Logging the final response before it is sent to the client.
 
 **Filter Example**
 ```c#
@@ -48,12 +84,16 @@ public class MyAsyncActionFilter : IAsyncActionFilter
 //DI 
 services.AddControllers(options =>
 {
-    options.Filters.Add<CustomActionFilter>();
-    options.Filters.Add<MyAsyncActionFilter>();
-
+    options.Filters.Add<CustomActionFilter>();//globally
 });
+//register
+builder.Services.AddScoped<MyAsyncActionFilter>();
 
 ```
+1. **ServiceFilter** allows you to use filters that depend on services registered in the DI container.`[ServiceFilter(typeof(AsyncLogActionFilter))] // Using DI filter`
+2. **Typefilter:** Use [TypeFilter] for additional parameters or complex scenarios.`[TypeFilter(typeof(ParameterizedLogFilter), Arguments = new object[] { "Order Processing" })]`
+3. **ActionFilterAttribute**: Filters can be implemented as `attributes` by inheriting from `ActionFilterAttribute` (or other filter base classes like Attribute combined with filter interfaces).
+   
 ---
 ## Middleware:
 Middleware is a pipeline component that `processes requests and responses`. Each request passes through a series of middleware before reaching the final handler (controller or endpoint).
